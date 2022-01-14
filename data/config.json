@@ -1,0 +1,7 @@
+{
+    "api_key": "",
+    "solver": "anticaptcha",
+    "threads": 100,
+    "username": "realistic",
+    "avatar": true
+}
